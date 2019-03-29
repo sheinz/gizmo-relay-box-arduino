@@ -1,0 +1,6 @@
+[submodule "Arduino-CMake-NG"]
+	path = Arduino-CMake-NG
+	url = https://github.com/arduino-cmake/Arduino-CMake-NG
+[submodule "RF24"]
+	path = RF24
+	url = https://github.com/nRF24/RF24
